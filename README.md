@@ -1,6 +1,6 @@
 ## README
 
-The present file-fold consists the behavioral and EEG data collected in the misinformation comprehension and truth validation task developed by Yishu Yang and Min Zhang.
+The present file folder consists of the behavioral and EEG data collected in the misinformation comprehension and truth validation task developed by Yishu Yang and Min Zhang.
 
 The file of "rating.csv" reports the rating scores (averaged across trials for each condition within every participants) of the perceived truth about misinformation stimuli.
 
